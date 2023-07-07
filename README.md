@@ -14,7 +14,7 @@ A telecom company dealing with several customers. Due to certain reasons most of
 
 # _Dataset_
 
-The project utilizes the dataset provided by the company for training and testing the fraud detection model consisting of 7043 rows and 21 columns. The dataset does not contain any null values or duplicate entries. 
+The project utilizes the dataset provided by the company for training and testing consisting of 7043 rows and 21 columns. The dataset does not contain any null values or duplicate entries. 
 
 Dataset link: https://drive.google.com/file/d/1pMFGzFVJAz7yLCaSWM1t4GtbuBCn20--/view?usp=sharing
 
